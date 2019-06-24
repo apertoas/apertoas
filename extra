@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <title>Hayate & Natsuko</title>
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+  
+    <body id="extra">
+      <link href="https://fonts.googleapis.com/css?family=Dancing+Script&display=swap" rel="stylesheet">
+    <!-- header -->
+    <header>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="index.html#movie">Movie</a></li>
+          <li><a href="extra.html">Extra edition</a></li>
+        </ul>
+      </nav>
+      </header>
+      <!--header終わり-->
+    
+    <!--wrap始まり-->
+    <div id="wrap">
+      <section>
+        <div class="exphoto">
+          
+        <ul>
+           <li><img src="img/LRG_DSC01962.jpg"></li> 
+          </ul>
+          <h1>Congratulations on your engagement! <br>I'm really happy too! I think there is no better partner than this for each other, so your future will be nice and special! I love you all!</h1>
+        <p>Produced by Asako</p>
+        </div>
+      </section>
+    </div>
+    
+    
+    <!--wrap終わり-->
+    
+      <footer>
+        <small>(c) asako obiki</small>
+      </footer>
+  </body>
