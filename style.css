@@ -1,6 +1,8 @@
 @charset "utf-8";
 
-
+@media screen and (max-width:600px){
+  /*画面サイズが600px以下の場合*/
+}
 
 header{
   margin: 0;
