@@ -263,7 +263,10 @@ nav li{
   float: left;
   padding: 5%;
 }
-
+.wrap{
+  margin:0;
+  padding:0;
+  }
 
  .exphoto{
    width:100%;
@@ -308,8 +311,6 @@ nav li{
   position:absolute;
   width:80%;
   line-height: 1.5;
-  
-  
 }
   video{
     width: 100%;
