@@ -160,7 +160,7 @@ body {
 #index {
   background-image:url(LRG_DSC01958.jpg);
   background-repeat: no-repeat;
-  background-position: center 15%;
+  background-position: center 12%;
   background-attachment: fixed;
   background-size:100% auto;
   background-color: antiquewhite;
@@ -285,7 +285,7 @@ nav li{
 
 .exphoto img{
   width: 80%;
-  margin: 2vw 13% 0 0;
+  margin: 2vw 0 0 0;
   padding:0;
   
 }
