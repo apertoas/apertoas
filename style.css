@@ -275,7 +275,10 @@ nav li{
   text-align: center;
   
 }
-  
+  .exphoto li{
+  padding:0;
+  margin:0;
+}
 
 .exphoto img{
   width: 80%;
