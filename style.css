@@ -221,7 +221,7 @@ nav li{
 .content h1{
   color: #fff;
   font-size: 8vw;
-  line-height: 1;
+  line-height: 1.5;
   margin: 0 0 0 3%;
   padding: 40vw 0 0 0;
   float: left;
@@ -231,7 +231,7 @@ nav li{
 #movie{
   text-align: center;
   position: absolute;
-  padding:140vw 0 0 0;
+  padding:20vw 0 0 0;
   margin: 0;
 }
 
