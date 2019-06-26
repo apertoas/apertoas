@@ -155,6 +155,7 @@ body {
 }
 #index .content{
   margin: 0;
+  padding:0;
 }
 
 #index {
@@ -225,7 +226,7 @@ nav li{
   font-size: 8vw;
   line-height: 2;
   margin: 0 0 0 3%;
-  padding: 40vw 0 0 0;
+  padding: 30vw 0 010vw 0;
   float: left;
   display: block;
 }
