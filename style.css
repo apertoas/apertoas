@@ -236,7 +236,7 @@ nav li{
 
 #extra{
   background-color: antiquewhite;
-  float: none;
+  
 }
 
 
@@ -283,10 +283,10 @@ nav li{
   list-style: none;
   text-align: center;
   margin:0;
-   padding:0;
+  padding:0;
   
 }
-  .exphoto li{
+ .exphoto li{
   padding:0;
   margin:0;
 }
@@ -304,7 +304,7 @@ nav li{
   margin: 10vw 0 0 10%;
   text-align: center;
   position:relative;
-   width: 80%;
+  width: 80%;
   line-height: 1.5;
 
 }
