@@ -233,7 +233,7 @@ nav a:hover{
 #index footer small{
   color: burlywood;
   font-size: 3vw;
-  padding:10vw 13vw 2vw 0;
+  padding:3vw 13vw 2vw 0;
   margin: 0;
 }
   
@@ -275,7 +275,7 @@ nav a:hover{
 #movie{
   width:100%;
   padding: 0 ;
-  margin: 6% 10% 5% 0;
+  margin: 6% 10% 2% 0;
   display: block;
 }
 
