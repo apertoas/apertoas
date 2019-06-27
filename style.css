@@ -65,7 +65,7 @@ nav a:hover{
 }
 
 #index footer small{
-  color: #fff;
+  color:burlywood ;
   float: right;
   font-size: 20px;
   padding: 15px;
@@ -124,7 +124,6 @@ nav a:hover{
   color: burlywood;
   font-size: 20px;
   float: right;
-  margin-top: 5%;
   padding: 15px;
 }
 
@@ -136,7 +135,7 @@ nav a:hover{
 
 .exphoto img{
   width: 80%;
-  margin-top: 100px;
+  margin-top: 80px;
 }
 
 .exphoto h1{
