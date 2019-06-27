@@ -17,11 +17,7 @@ body {
 }
 
 #index {
-  background-image:url(LRG_DSC01958.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-attachment: fixed;
-  background-size: cover;
+  background-color: antiquewhite;
 }
 #index footer{
   width: 100%;
@@ -30,27 +26,40 @@ body {
 }
 
 nav{
-  margin: 120px 0 0 70px;
+  margin: 0;
 }
 
+nav ul{
+  width: 100%;
+}
 nav li{
-  padding: 0.5px;
+  padding: 0px;
   list-style: none;
+  margin: 0 0 0 12%;
+
 }
 
 #index nav a{
   text-decoration: none;
-   color:#fff;
+  color:burlywood;
   font-size: 34px;
-  margin: auto;
-  padding: 0;
+  margin: 0;
+  padding: 0 5%;
+  float: left;
+  display: block;
+  text-align: center;
+  
 }
 #index nav a:hover{
   text-decoration: none;
-   color: burlywood;
+   color: #fff;
   font-size: 34px;
   margin: auto;
-  padding: 0;}
+  padding: 0 5%;
+  float: left;
+  display: block;
+  text-align: center;
+}
 
 #index footer small{
   color: #fff;
@@ -58,17 +67,38 @@ nav li{
   font-size: 20px;
   padding: 15px;
 }
+
+.sam img{
+  width: 100%;
+  padding: 5% 0 0 0 ;
+}
+
 .content h1{
   color: #fff;
-  font-size: 100px;
-  margin: 280px 50px 0 90px;
-  line-height: 1.5;
-  
+  font-size: 60px;
+  margin: 0;
+  padding: 5% 0 0 0;
+  display: block;
+  text-align: center;
+}
+  .content p{
+  color: #fff;
+    line-height: 1;
+  font-size: 60px;
+  margin: 0 0 0 5%;
+  padding: 1% 0 7% 0;
+  display: block;
+    
+  text-align: center;
+}
+.mov video{
+   width: 100%;
 }
 
 #movie{
+  width: 100%;
   text-align: center;
-  padding: 50px;
+  padding: 0;
 }
 
 #extra{
@@ -162,16 +192,9 @@ body {
 }
 
 #index {
-  background-image:url(LRG_DSC01958.jpg);
-  background-repeat: no-repeat;
-  background-position: center 15%;
-  background-attachment: fixed;
-  background-size:100% auto;
   background-color: antiquewhite;
   padding:0;
   margin:0;
-  float: left;
-  height:0; 
 }
 #index footer{
   width: auto;
@@ -195,7 +218,7 @@ nav li{
 }
   nav ul{
     text-align: center;
-    padding: 0;
+    padding: 10px;
     margin: 0;
   }
 
@@ -223,20 +246,35 @@ nav li{
   margin: 0;
 }
   
+.sam img{
+  width: 100%;
+  padding: 0;
+  margin: 0 0 10% 0;
+  float: left;
+}
+  
 .content h1{
+  color: #fff;
+  font-size: 8vw;
+  margin: 0;
+  padding: 16vw 0 0 0;
+  display: block;
+  text-align: center;
+}
+  .content p{
   color: #fff;
   font-size: 8vw;
   line-height: 2;
   margin: 0 0 0 3%;
-  padding: 28vw 0 010vw 0;
-  float: left;
+  padding: 6vw 0 0 0;
   display: block;
+  text-align: center;
 }
 
 #movie{
   width:100%;
   padding: 0 ;
-  margin: 26% 0 0 0;
+  margin: 10% 0 0 0;
 }
 
 #extra{
