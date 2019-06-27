@@ -260,9 +260,12 @@ nav a:hover{
   display: block;
   text-align: center;
 }
+.mov video{
+   width: 80%;
+}
 
 #movie{
-  width:80%;
+  width:100%;
   padding: 0 ;
   margin: 10% 0 0 10%;
   display: block;
