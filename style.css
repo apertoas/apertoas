@@ -240,7 +240,7 @@ nav a:hover{
 .sam img{
   width: 80%;
   padding: 0;
-  margin: 2vw 0 10% 10%;
+  margin: 2vw 0 7% 10%;
 }
   
 .content h1{
@@ -254,9 +254,9 @@ nav a:hover{
   .content p{
   color: #fff;
   font-size: 8vw;
-  line-height: 2;
+  line-height: 1.5;
   margin: 0;
-  padding: 6vw 0 0 0;
+  padding: 3vw 0 0 0;
   display: block;
   text-align: center;
 }
