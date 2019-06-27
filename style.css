@@ -160,69 +160,74 @@ nav a:hover{
 header{
   margin: 0;
   padding: 0;
+  width: 100%;
 }
 body {
   font-family: 'Dancing Script', cursive;
   margin: 0;
   padding: 0;
+  width: 100%;
 }
  
  footer{
    margin:0;
    padding:0;
+   width: 100%;
   }
   
 #index .content{
   margin: 0;
   padding:0;
+  width: 100%;
 }
 
 #index {
   background-color: antiquewhite;
   padding:0;
   margin:0;
+  width: 100%;
 }
 #index footer{
   width: 100%;
   margin: 0;
   text-align: left;
 }
-#extra header{
-  height:15%;
-  }
+
 nav{
   margin: 0;
   padding: 0;
   text-align: center;
+  width: 100%;
   }
-
-nav li{
-  padding: 0.2vw;
-  list-style: none;
-  margin: 0;
-  text-align: center;
-}
-  nav ul{
+nav ul{
     text-align: center;
     padding: 10px;
     margin: 0;
+    width: 100%;
+  }
+nav li{
+  padding: 0;
+  list-style: none;
+  margin: 0;
+  text-align: center;
+  width: 100%;
   }
 
-#index nav a{
+nav a{
   text-decoration: none;
   color:burlywood;
   font-size: 6vw;
-  margin: 0 0 0 3.5%;
-  float: left;
-  padding: 6%;
+  margin: 0 ;
+  padding: 8%;
+  display: inline-block;
 }
-#index nav a:hover{
+nav a:hover{
   text-decoration: none;
   color:#fff;
   font-size: 6vw;
-  margin: 0 0 0 3.5%;
-  float: left;
-  padding: 6%;
+  margin: 0 ;
+  padding: 8%;
+  display: inline-block;
   }
 
 #index footer small{
@@ -233,17 +238,16 @@ nav li{
 }
   
 .sam img{
-  width: 100%;
+  width: 80%;
   padding: 0;
-  margin: 0 0 10% 0;
-  float: left;
+  margin: 4% 0 10% 10%;
 }
   
 .content h1{
   color: #fff;
   font-size: 8vw;
   margin: 0;
-  padding: 16vw 0 0 0;
+  padding:0;
   display: block;
   text-align: center;
 }
@@ -251,16 +255,17 @@ nav li{
   color: #fff;
   font-size: 8vw;
   line-height: 2;
-  margin: 0 0 0 3%;
+  margin: 0;
   padding: 6vw 0 0 0;
   display: block;
   text-align: center;
 }
 
 #movie{
-  width:100%;
+  width:80%;
   padding: 0 ;
-  margin: 10% 0 0 0;
+  margin: 10% 0 0 10%;
+  display: block;
 }
 
 #extra{
@@ -276,22 +281,7 @@ nav li{
   margin: 0;
 }
 
-#extra nav a{
-  text-decoration: none;
-  color:burlywood;
-  font-size: 6vw;
-  margin: 0 0 0 3.5%;
-  float: left;
-  padding: 6%;
-}
-#extra nav a:hover{
-  text-decoration: none;
-  color:#fff;
-  font-size: 6vw;
-  margin: 0 0 0 3.5%;
-  float: left;
-  padding: 6%;
-}
+
   #ertra section{
     margin:0;
    padding:0;
