@@ -42,7 +42,7 @@ nav li{
 
 }
 
-#index nav a{
+nav a{
   text-decoration: none;
   color:burlywood;
   font-size: 34px;
@@ -53,7 +53,7 @@ nav li{
   text-align: center;
   
 }
-#index nav a:hover{
+nav a:hover{
   text-decoration: none;
    color: #fff;
   font-size: 34px;
@@ -118,40 +118,17 @@ nav li{
   text-align: left;
 }
 
-#extra nav a{
-  text-decoration: none;
-  color:burlywood;
-  font-size: 34px;
-  margin: 0 4%;
-  padding: 0 5%;
-  float: left;
-  display: block;
-  text-align: center;
-}
-#extra nav a:hover{
-  text-decoration: none;
-   color: #fff;
-  font-size: 34px;
-  margin: 0 4%;
-  padding: 0 5%;
-  float: left;
-  display: block;
-  text-align: center;
-}
+
 
 #extra footer small{
   color: burlywood;
   font-size: 20px;
   float: right;
-  margin-top: 1070px;
+  margin-top: 0px;
   padding: 15px;
 }
 
- .exphoto{
-    text-align: center;
-    position: relative;
-    
-  }
+ 
 .exphoto ul{
   list-style: none;
   text-align: center;
